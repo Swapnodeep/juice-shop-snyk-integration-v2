@@ -6,7 +6,7 @@ on:
     branches: [ 'master' ]
     
 jobs:
-  security:
+  Snyk-Security-Scan:
     runs-on: ubuntu-latest
     
     permissions:
